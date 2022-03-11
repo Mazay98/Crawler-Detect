@@ -1378,7 +1378,7 @@ class Crawlers extends AbstractProvider
         'YahooMailProxy',
         'YahooYSMcm',
         'YandeG',
-        'Yandex(?!Search)',
+        'yandex\.com\/bots',
         'yanga',
         'yeti',
         'Yo-yo',
